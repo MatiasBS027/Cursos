@@ -3,7 +3,7 @@ Elaborado por: Matias Benavides
 Fecha: 13-08-2025
 Descripción: Programa para hacer ejercicios de Java sobre impresión en consola
  */
- public class Ejercicios1 {
+public class Ejercicios1 {
     public static void main(String[] args){
         System.out.println("Matias Benavides"); // Imprime tu nombre completo
         System.out.println("Hola \nMundo"); // Imprime "Hola" y "Mundo" en líneas separadas
