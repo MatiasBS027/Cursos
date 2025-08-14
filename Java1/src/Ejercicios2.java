@@ -23,8 +23,8 @@ public class Ejercicios2 {
         location = "USA";
         System.out.println("Mi nueva ubicación es:"+ location);
 
-        int a = 10;
-        int b = 5;
+        int a = 11;
+        int b = 9;
         System.out.println("La suma de " +(a)+ "+" +(b)+ " es: " + (a + b));
 
         System.out.println(name.getClass().getSimpleName());
